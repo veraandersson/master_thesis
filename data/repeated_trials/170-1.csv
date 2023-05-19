@@ -1,0 +1,39 @@
+﻿170;;Unkn;Sömn: ;Undvikande: Skjuter upp sysslor;Känslor: Har ångest;Övertänker: ;Stillasittande: ;Självskada: ;Substanser: ;Ätande: Skippar måltider/kräks;Självmord: Funderar --> önskar --> planerar självmord;Självkritik: ;Fokusproblem: Har svårt att fokusera;Kroppsligt: Kroppen är igång i och med stress;Skolkrav: ;Familj: ;Jämnåriga: Har inte så många vänner i min egen ålder;Trauma: ;Dissocierar: Känner att livet inte är verkligt/inte är en människa;Öppet: Har tvångsbeteenden;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;0;1;1;0;0;0;0;1;1;0;1;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Undvikande: Skjuter upp sysslor;1;;;0;87;;;;;12;12;;58;87;;;0;;12;88;;;;;;;;;;77;EMPTY
+Känslor: Har ångest;1;;;19;0;;;;;37;99;;67;62;;;55;;99;88;;;;;;;;;;99;EMPTY
+Övertänker: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Skippar måltider/kräks;1;;;0;74;;;;;0;87;;29;87;;;22;;25;88;;;;;;;;;;99;EMPTY
+Självmord: Funderar --> önskar --> planerar självmord;1;;;0;50;;;;;37;0;;19;12;;;33;;99;88;;;;;;;;;;99;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att fokusera;1;;;29;62;;;;;37;74;;0;99;;;0;;99;66;;;;;;;;;;77;EMPTY
+Kroppsligt: Kroppen är igång i och med stress;1;;;39;87;;;;;12;74;;77;0;;;0;;0;77;;;;;;;;;;88;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: Har inte så många vänner i min egen ålder;1;;;0;87;;;;;0;0;;0;12;;;0;;0;11;;;;;;;;;;77;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: Känner att livet inte är verkligt/inte är en människa;1;;;0;0;;;;;0;0;;0;0;;;66;;0;22;;;;;;;;;;99;EMPTY
+Öppet: Har tvångsbeteenden;1;;;0;99;;;;;99;99;;10;74;;;11;;99;0;;;;;;;;;;99;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;0;87;545;0;0;0;0;235;446;0;260;433;0;0;187;0;433;528;3153;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,00;0,03;0,17;0,00;0,00;0,00;0,00;0,07;0,14;0,00;0,08;0,14;0,00;0,00;0,06;0,00;0,14;0,17;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Vaknar ofta på natten;Skjuter upp sysslor;Har ångest;Grubblar och oroar mig (betyg, relationer, etc);0;Självskadar;0;Skippar måltider/kräks;Funderar --> önskar --> planerar självmord;Känner att jag är dålig och värdelös;Har svårt att fokusera;Kroppen är igång i och med stress;Skolan trycker på om betyg;Får negativ uppmärksamhet av mamma;Har inte så många vänner i min egen ålder;Har flashbacks;Känner att livet inte är verkligt/inte är en människa;Har tvångsbeteenden;;;;;;;;;;;
+;;;;Skjuter upp sysslor;Har ångest;;;;;Skippar måltider/kräks;Funderar --> önskar --> planerar självmord;;Har svårt att fokusera;Kroppen är igång i och med stress;;;Har inte så många vänner i min egen ålder;;Känner att livet inte är verkligt/inte är en människa;Har tvångsbeteenden;;;;;;;;;;;
+;;Frekv;9;7;9;5;0;8;0;9;9;4;7;9;4;5;8;3;9;8;;;;;;;;;;;
+;;frekvx11;;77;99;;;;;99;99;;77;99;;;88;;99;88;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;5;7;9;8;0;1;0;9;9;7;7;8;9;4;7;6;9;9;;;;;;;;;;;
+;;painfx11;;77;99;;;;;99;99;;77;88;;;77;;99;99;;;;;;;;;;;

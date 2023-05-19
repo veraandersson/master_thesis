@@ -1,0 +1,36 @@
+﻿MEDEL;;Unkn;Sömn: ;Undvikande: skjuter upp läxor och struntar ibland att gå till skolan ;Känslor: är nedstämd ;Övertänker: oroar mig över framtiden och tänker på det som varit ;Stillasittande: ;Självskada: ;Substanser: ;Ätande: äter inte lunch i skolan ;Självmord: periodvis självmordstankar och -planer (1-2 månader sedan);Självkritik: kan skuldbelägga mig själv ;Fokusproblem: koncentrationssvårigheter fra i skolan ;Kroppsligt: har ofta ont i magen ;Skolkrav: ;Familj: ;Jämnåriga: har svårt att behålla vänner/relationer ;Trauma: ;Dissocierar: ;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;0;1;1;1;0;0;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Undvikande: skjuter upp läxor och struntar ibland att gå till skolan ;1;;;0;63;41;;;;12;;24;26;;;;20;;;;;;;;;;;;;66;EMPTY
+Känslor: är nedstämd ;1;;;34;0;47;;;;34;;28;16;;;;47;;;;;;;;;;;;;70;EMPTY
+Övertänker: oroar mig över framtiden och tänker på det som varit ;1;;;51;56;0;;;;23;;30;4;;;;51;;;;;;;;;;;;;73;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Ätande: äter inte lunch i skolan ;1;;;10;29;0;;;;0;;1;0;;;;3;;;;;;;;;;;;;29;EMPTY
+Självmord: periodvis självmordstankar och -planer (1-2 månader sedan);0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;88;EMPTY
+Självkritik: kan skuldbelägga mig själv ;1;;;30;49;37;;;;20;;0;16;;;;47;;;;;;;;;;;;;62;EMPTY
+Fokusproblem: koncentrationssvårigheter fra i skolan ;1;;;27;42;40;;;;33;;21;0;;;;23;;;;;;;;;;;;;66;EMPTY
+Kroppsligt: har ofta ont i magen ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;61;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17;EMPTY
+Jämnåriga: har svårt att behålla vänner/relationer ;1;;;44;38;17;;;;0;;20;10;;;;0;;;;;;;;;;;;;81;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;;0;231;396;286;309;0;0;187;0;91;14;95;0;0;330;0;0;0;0;0;0;0;0;0;0;0;;;
+Rader visar orsak;;;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;sover för mycket ;skjuter upp saker ;nedstämdhet ;grubblar över det som varit och oroar sig över framtiden ;rör inte på sig och blir skjutsad ;0;dricker alkohol;är kräsen och hoppar över lunchen ;0;självkritisk;är ouppmärksam ;har ont i ryggen och huvudet;0;0;har svårt att behålla vänner ;0;0;fastnar i mobilen ;;;;;;;;;;;
+;;Frekv;5;8;8;8;9;0;2;8;0;3;5;3;0;0;8;0;0;9;;;;;;;;;;;
+;;frekvx11;55;88;88;88;99;0;22;88;0;33;55;33;0;0;88;0;0;99;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;

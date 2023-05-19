@@ -1,0 +1,39 @@
+﻿96;;Unkn;Sömn: ;Undvikande: Undviker människor jag inte känner;Känslor: Känner ångest/rastlöshet;Övertänker: Grubblar över framtiden;Stillasittande: ;Självskada: ;Substanser: ;Ätande: Hets-/stressäter;Självmord: ;Självkritik: Tycker att jag är äcklig/för tjock;Fokusproblem: Har svårt att bibehålla koncentrationen;Kroppsligt: ;Skolkrav: ;Familj: Mamma är medberoende till min OCD;Jämnåriga: Har inte så många vänner;Trauma: ;Dissocierar: ;Öppet: Tvångstvättar/-duschar;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;0;1;1;1;0;0;0;1;0;1;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Undvikande: Undviker människor jag inte känner;1;;;0;77;37;;;;88;;67;12;;;19;28;;;88;;;;;;;;;;88;EMPTY
+Känslor: Känner ångest/rastlöshet;1;;;99;0;25;;;;88;;77;62;;;77;34;;;55;;;;;;;;;;88;EMPTY
+Övertänker: Grubblar över framtiden;1;;;37;33;0;;;;22;;58;25;;;19;34;;;11;;;;;;;;;;66;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Hets-/stressäter;1;;;62;55;62;;;;0;;58;37;;;48;41;;;77;;;;;;;;;;88;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: Tycker att jag är äcklig/för tjock;1;;;99;66;50;;;;88;;0;12;;;19;48;;;88;;;;;;;;;;77;EMPTY
+Fokusproblem: Har svårt att bibehålla koncentrationen;1;;;62;33;62;;;;22;;29;0;;;10;21;;;33;;;;;;;;;;88;EMPTY
+Kroppsligt: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: Mamma är medberoende till min OCD;1;;;12;22;12;;;;66;;67;25;;;0;34;;;66;;;;;;;;;;44;EMPTY
+Jämnåriga: Har inte så många vänner;1;;;74;77;0;;;;22;;39;37;;;0;0;;;22;;;;;;;;;;55;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: Tvångstvättar/-duschar;1;;;87;77;0;;;;88;;77;0;;;29;28;;;0;;;;;;;;;;55;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;0;532;440;248;0;0;0;484;0;472;210;0;0;221;268;0;0;440;3315;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,00;0,16;0,13;0,07;0,00;0,00;0,00;0,15;0,00;0,14;0,06;0,00;0,00;0,07;0,08;0,00;0,00;0,13;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;0;Undviker människor jag inte känner;Känner ångest/rastlöshet;Grubblar över framtiden;Fastnar hemma;Sexuella beteenden online som jag ångrar efteråt;Tar högre doser av ADHD-lkm än jag borde;Hets-/stressäter;0;Tycker att jag är äcklig/för tjock;Har svårt att bibehålla koncentrationen;0;0;Mamma är medberoende till min OCD;Har inte så många vänner;0;0;Tvångstvättar/-duschar;;;;;;;;;;;
+;;;;Undviker människor jag inte känner;Känner ångest/rastlöshet;Grubblar över framtiden;;;;Hets-/stressäter;;Tycker att jag är äcklig/för tjock;Har svårt att bibehålla koncentrationen;;;Mamma är medberoende till min OCD;Har inte så många vänner;;;Tvångstvättar/-duschar;;;;;;;;;;;
+;;Frekv;0;9;8;9;5;2;2;8;0;7;9;0;0;7;5;0;0;8;;;;;;;;;;;
+;;frekvx11;;99;88;99;;;;88;;77;99;;;77;55;;;88;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;0;8;8;6;4;8;7;8;0;7;8;0;0;4;5;0;0;5;;;;;;;;;;;
+;;painfx11;;88;88;66;;;;88;;77;88;;;44;55;;;55;;;;;;;;;;;

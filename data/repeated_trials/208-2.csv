@@ -1,0 +1,39 @@
+﻿208;;Unkn;Sömn: ;Undvikande: Går inte till skolan, stannar hemma;Känslor: Arg/ledsen/besviken;Övertänker: ;Stillasittande: ;Självskada: ;Substanser: ;Ätande: Skippar frukost;Självmord: ;Självkritik: ;Fokusproblem: Har svårt att koncentrera mig;Kroppsligt: Huvudvärk/illamående;Skolkrav: ;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Undvikande: Går inte till skolan, stannar hemma;1;;;0;0;;;;;0;;;0;8;;;;;;;;;;;;;;;;44;EMPTY
+Känslor: Arg/ledsen/besviken;1;;;0;0;;;;;0;;;0;0;;;;;;;;;;;;;;;;44;EMPTY
+Övertänker: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Skippar frukost;1;;;0;0;;;;;0;;;0;0;;;;;;;;;;;;;;;;11;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att koncentrera mig;1;;;0;12;;;;;0;;;0;8;;;;;;;;;;;;;;;;44;EMPTY
+Kroppsligt: Huvudvärk/illamående;1;;;0;12;;;;;0;;;0;0;;;;;;;;;;;;;;;;55;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;0;0;25;0;0;0;0;0;0;0;0;17;0;0;0;0;0;0;41;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,00;0,00;0,60;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,40;0,00;0,00;0,00;0,00;0,00;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;0;Går inte till skolan, stannar hemma;Arg/ledsen/besviken;0;0;0;0;Skippar frukost;0;0;Har svårt att koncentrera mig;Huvudvärk/illamående;0;0;0;0;0;0;;;;;;;;;;;
+;;;;Går inte till skolan, stannar hemma;Arg/ledsen/besviken;;;;;Skippar frukost;;;Har svårt att koncentrera mig;Huvudvärk/illamående;;;;;;;;;;;;;;;;;
+;;Frekv;0;2;3;0;0;0;0;9;0;0;4;3;0;0;0;0;0;0;;;;;;;;;;;
+;;frekvx11;;22;33;;;;;99;;;44;33;;;;;;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;0;4;4;0;0;0;0;1;0;0;4;5;0;0;0;0;0;0;;;;;;;;;;;
+;;painfx11;;44;44;;;;;11;;;44;55;;;;;;;;;;;;;;;;;

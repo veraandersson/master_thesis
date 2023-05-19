@@ -1,0 +1,39 @@
+﻿12;;Unkn;Sömn: ;Undvikande: Undviker lektioner/skolarbete;Känslor: Känner (periodvis) extrem tomhet/flackhet, som slutar i extrema känslor.;Övertänker: Grubblar över relationer;Stillasittande: ;Självskada: ;Substanser: ;Ätande: ;Självmord: Funderar på om livet är värt att leva/om jag vill leva;Självkritik: Åsikt att jag inte är värd uppmärksamhet/nära relationer;Fokusproblem: Zonar ut;Kroppsligt: Känner extrem energilöshet/sömnighet;Skolkrav: ;Familj: Har sjuka föräldrar;Jämnåriga: (Ytliga) Kompisar är taskiga;Trauma: ;Dissocierar: ;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;0;1;1;1;0;0;0;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Undvikande: Undviker lektioner/skolarbete;1;;;0;67;7;;;;;19;0;87;77;;11;4;;;;;;;;;;;;;77;EMPTY
+Känslor: Känner (periodvis) extrem tomhet/flackhet, som slutar i extrema känslor.;1;;;19;0;0;;;;;48;0;12;33;;0;12;;;;;;;;;;;;;88;EMPTY
+Övertänker: Grubblar över relationer;1;;;0;19;0;;;;;10;39;0;0;;33;8;;;;;;;;;;;;;66;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: Funderar på om livet är värt att leva/om jag vill leva;1;;;0;67;28;;;;;0;33;0;77;;0;4;;;;;;;;;;;;;55;EMPTY
+Självkritik: Åsikt att jag inte är värd uppmärksamhet/nära relationer;1;;;19;29;28;;;;;48;0;0;44;;0;8;;;;;;;;;;;;;88;EMPTY
+Fokusproblem: Zonar ut;1;;;0;67;21;;;;;29;11;0;77;;55;4;;;;;;;;;;;;;77;EMPTY
+Kroppsligt: Känner extrem energilöshet/sömnighet;1;;;0;67;7;;;;;10;0;74;0;;55;0;;;;;;;;;;;;;33;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: Har sjuka föräldrar;1;;;0;0;0;;;;;0;0;0;0;;0;0;;;;;;;;;;;;;77;EMPTY
+Jämnåriga: (Ytliga) Kompisar är taskiga;1;;;0;0;0;;;;;0;0;0;55;;0;0;;;;;;;;;;;;;44;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;0;39;318;89;0;0;0;0;164;83;173;363;0;154;41;0;0;0;1423;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,00;0,03;0,22;0,06;0,00;0,00;0,00;0,00;0,11;0,06;0,12;0,26;0,00;0,11;0,03;0,00;0,00;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;0;Undviker lektioner/skolarbete;Känner (periodvis) extrem tomhet/flackhet, som slutar i extrema känslor.;Grubblar över relationer;0;0;0;Skippar (periodvis) lunch/frukost;Funderar på om livet är värt att leva/om jag vill leva;Åsikt att jag inte är värd uppmärksamhet/nära relationer;Zonar ut;Känner extrem energilöshet/sömnighet;0;Har sjuka föräldrar;(Ytliga) Kompisar är taskiga;0;0;0;;;;;;;;;;;
+;;;;Undviker lektioner/skolarbete;Känner (periodvis) extrem tomhet/flackhet, som slutar i extrema känslor.;Grubblar över relationer;;;;;Funderar på om livet är värt att leva/om jag vill leva;Åsikt att jag inte är värd uppmärksamhet/nära relationer;Zonar ut;Känner extrem energilöshet/sömnighet;;Har sjuka föräldrar;(Ytliga) Kompisar är taskiga;;;;;;;;;;;;;;
+;;Frekv;0;7;7;5;0;0;0;3;7;4;9;8;0;8;3;0;0;0;;;;;;;;;;;
+;;frekvx11;;77;77;55;;;;;77;44;99;88;;88;33;;;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;0;7;8;6;0;0;0;3;5;8;7;3;0;7;4;0;0;0;;;;;;;;;;;
+;;painfx11;;77;88;66;;;;;55;88;77;33;;77;44;;;;;;;;;;;;;;

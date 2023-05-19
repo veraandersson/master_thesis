@@ -1,0 +1,39 @@
+﻿250;;Unkn;Sömn: Går och lägger mig för sent, sover för lite;Undvikande: Skjuter upp (läxor, komma igång);Känslor: Har jobbig känsla (arg, nedstämd, ångest);Övertänker: ;Stillasittande: ;Självskada: ;Substanser: Röker, dricker för mycket;Ätande: Äter mindre, kräks;Självmord: Tänker på att ta mitt liv;Självkritik: Känner att jag aldrig kommer vara bra nog;Fokusproblem: ;Kroppsligt: Har kroppsliga problem (smärtor, yrsel);Skolkrav: ;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: Spelar för mycket/fastnar på sociala medier;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;0;0;0;1;1;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: Går och lägger mig för sent, sover för lite;1;;0;29;74;;;;0;0;33;21;;25;;;;;;77;;;;;;;;;;77;EMPTY
+Undvikande: Skjuter upp (läxor, komma igång);1;;44;0;62;;;;0;0;22;21;;25;;;;;;44;;;;;;;;;;44;EMPTY
+Känslor: Har jobbig känsla (arg, nedstämd, ångest);1;;66;29;0;;;;50;41;66;41;;25;;;;;;55;;;;;;;;;;77;EMPTY
+Övertänker: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: Röker, dricker för mycket;1;;44;19;87;;;;0;0;77;41;;0;;;;;;33;;;;;;;;;;44;EMPTY
+Ätande: Äter mindre, kräks;1;;0;0;62;;;;37;0;0;14;;0;;;;;;0;;;;;;;;;;66;EMPTY
+Självmord: Tänker på att ta mitt liv;1;;11;0;50;;;;0;17;0;28;;0;;;;;;0;;;;;;;;;;66;EMPTY
+Självkritik: Känner att jag aldrig kommer vara bra nog;1;;11;48;62;;;;0;25;33;0;;0;;;;;;22;;;;;;;;;;66;EMPTY
+Fokusproblem: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Kroppsligt: Har kroppsliga problem (smärtor, yrsel);1;;55;0;50;;;;62;25;0;0;;0;;;;;;33;;;;;;;;;;77;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: Spelar för mycket/fastnar på sociala medier;1;;66;39;99;;;;0;8;66;34;;33;;;;;;0;;;;;;;;;;55;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;297;164;545;0;0;0;149;116;297;199;0;107;0;0;0;0;0;264;2137;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,14;0,08;0,25;0,00;0,00;0,00;0,07;0,05;0,14;0,09;0,00;0,05;0,00;0,00;0,00;0,00;0,00;0,12;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Går och lägger mig för sent, sover för lite;Skjuter upp (läxor, komma igång);Har jobbig känsla (arg, nedstämd, ångest);Övertänker/oroar mig (kompisar, skolan, socialt, mobbning);0;0;Röker, dricker för mycket;Äter mindre, kräks;Tänker på att ta mitt liv;Känner att jag aldrig kommer vara bra nog;Har svårt att fokusera;Har kroppsliga problem (smärtor, yrsel);Har mycket skoluppgifter;Har bråk inom familjen;0;Plötsliga minnesbilder från familjebråk;Känner att jag är utanför min kropp;Spelar för mycket/fastnar på sociala medier;;;;;;;;;;;
+;;;Går och lägger mig för sent, sover för lite;Skjuter upp (läxor, komma igång);Har jobbig känsla (arg, nedstämd, ångest);;;;Röker, dricker för mycket;Äter mindre, kräks;Tänker på att ta mitt liv;Känner att jag aldrig kommer vara bra nog;;Har kroppsliga problem (smärtor, yrsel);;;;;;Spelar för mycket/fastnar på sociala medier;;;;;;;;;;;
+;;Frekv;8;7;9;5;0;0;9;6;8;5;5;6;4;4;0;5;5;8;;;;;;;;;;;
+;;frekvx11;88;77;99;;;;99;66;88;55;;66;;;;;;88;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;7;4;7;4;0;0;4;6;6;6;4;7;4;6;0;5;5;5;;;;;;;;;;;
+;;painfx11;77;44;77;;;;44;66;66;66;;77;;;;;;55;;;;;;;;;;;

@@ -1,0 +1,39 @@
+﻿247;;Unkn;Sömn: Har sömnsvårigheter;Undvikande: Skjuter upp skolarbete;Känslor: Har starka negativa känslor (ilska, ångest, panik);Övertänker: Fastnar i att övertänka (betyg, självskadeimpulser, tidigare jobbiga händelser, etc);Stillasittande: ;Självskada: ;Substanser: ;Ätande: ;Självmord: ;Självkritik: Är inte nöjd med min kropp;Fokusproblem: Har svårt att lyssna/fokusera;Kroppsligt: Är illamående;Skolkrav: Har betygshets i klassen, samt krävande lärare;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: Har/gör emetofobiska tvångstankar/-beteenden;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;0;0;0;0;0;1;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: Har sömnsvårigheter;1;;0;25;62;50;;;;;;7;0;44;10;;;;;37;;;;;;;;;;44;EMPTY
+Undvikande: Skjuter upp skolarbete;1;;50;0;37;50;;;;;;0;39;66;39;;;;;62;;;;;;;;;;66;EMPTY
+Känslor: Har starka negativa känslor (ilska, ångest, panik);1;;25;25;0;62;;;;;;28;29;88;29;;;;;99;;;;;;;;;;99;EMPTY
+Övertänker: Fastnar i att övertänka (betyg, självskadeimpulser, tidigare jobbiga händelser, etc);1;;37;25;62;0;;;;;;21;29;77;29;;;;;87;;;;;;;;;;66;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: Är inte nöjd med min kropp;1;;12;0;37;62;;;;;;0;0;0;0;;;;;0;;;;;;;;;;33;EMPTY
+Fokusproblem: Har svårt att lyssna/fokusera;1;;87;25;25;37;;;;;;0;0;55;29;;;;;87;;;;;;;;;;66;EMPTY
+Kroppsligt: Är illamående;1;;12;0;87;62;;;;;;0;0;0;0;;;;;74;;;;;;;;;;88;EMPTY
+Skolkrav: Har betygshets i klassen, samt krävande lärare;1;;0;0;0;0;;;;;;0;0;0;0;;;;;0;;;;;;;;;;66;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: Har/gör emetofobiska tvångstankar/-beteenden;1;;0;0;62;25;;;;;;0;0;88;0;;;;;0;;;;;;;;;;88;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;223;99;371;347;0;0;0;0;0;55;96;418;135;0;0;0;0;446;2189;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,10;0,05;0,17;0,16;0,00;0,00;0,00;0,00;0,00;0,03;0,04;0,19;0,06;0,00;0,00;0,00;0,00;0,20;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Har sömnsvårigheter;Skjuter upp skolarbete;Har starka negativa känslor (ilska, ångest, panik);Fastnar i att övertänka (betyg, självskadeimpulser, tidigare jobbiga händelser, etc);0;0;0;0;0;Är inte nöjd med min kropp;Har svårt att lyssna/fokusera;Är illamående;Har betygshets i klassen, samt krävande lärare;0;0;0;0;Har/gör emetofobiska tvångstankar/-beteenden;;;;;;;;;;;
+;;;Har sömnsvårigheter;Skjuter upp skolarbete;Har starka negativa känslor (ilska, ångest, panik);Fastnar i att övertänka (betyg, självskadeimpulser, tidigare jobbiga händelser, etc);;;;;;Är inte nöjd med min kropp;Har svårt att lyssna/fokusera;Är illamående;Har betygshets i klassen, samt krävande lärare;;;;;Har/gör emetofobiska tvångstankar/-beteenden;;;;;;;;;;;
+;;Frekv;9;6;9;9;0;0;0;0;0;5;7;8;7;0;0;0;0;9;;;;;;;;;;;
+;;frekvx11;99;66;99;99;;;;;;55;77;88;77;;;;;99;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;4;6;9;6;0;0;0;0;0;3;6;8;6;0;0;0;0;8;;;;;;;;;;;
+;;painfx11;44;66;99;66;;;;;;33;66;88;66;;;;;88;;;;;;;;;;;

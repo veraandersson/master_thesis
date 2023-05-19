@@ -1,0 +1,39 @@
+﻿195;;Unkn;Sömn: Ligger vaken ett tag innan jag somnar;Undvikande: Undviker att vara hemma;Känslor: Är irriterad;Övertänker: Lägger prestationskrav på mig själv;Stillasittande: ;Självskada: ;Substanser: ;Ätande: Äter inte regelbundet;Självmord: ;Självkritik: ;Fokusproblem: Har svårt att fokusera på detaljer;Kroppsligt: Har huvudvärk;Skolkrav: ;Familj: Kommer inte överens med låtsaspappa;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: Har många saker igång;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;0;0;0;1;0;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: Ligger vaken ett tag innan jag somnar;1;;0;6;50;99;;;;0;;;55;39;;58;;;;55;;;;;;;;;;66;EMPTY
+Undvikande: Undviker att vara hemma;1;;0;0;58;0;;;;0;;;0;11;;77;;;;33;;;;;;;;;;66;EMPTY
+Känslor: Är irriterad;1;;6;28;0;37;;;;33;;;77;33;;77;;;;33;;;;;;;;;;44;EMPTY
+Övertänker: Lägger prestationskrav på mig själv;1;;39;0;17;0;;;;17;;;55;22;;58;;;;88;;;;;;;;;;44;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Äter inte regelbundet;1;;0;17;25;62;;;;0;;;0;6;;10;;;;22;;;;;;;;;;11;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att fokusera på detaljer;1;;33;0;41;87;;;;0;;;0;33;;10;;;;66;;;;;;;;;;66;EMPTY
+Kroppsligt: Har huvudvärk;1;;33;0;41;25;;;;17;;;33;0;;29;;;;33;;;;;;;;;;44;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: Kommer inte överens med låtsaspappa;1;;6;33;41;0;;;;41;;;0;6;;0;;;;55;;;;;;;;;;66;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: Har många saker igång;1;;17;28;0;99;;;;0;;;0;0;;48;;;;0;;;;;;;;;;77;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;132;110;272;408;0;0;0;107;0;0;220;149;0;366;0;0;0;385;2149;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,06;0,05;0,13;0,19;0,00;0,00;0,00;0,05;0,00;0,00;0,10;0,07;0,00;0,17;0,00;0,00;0,00;0,18;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Ligger vaken ett tag innan jag somnar;Undviker att vara hemma;Är irriterad;Lägger prestationskrav på mig själv;0;0;0;Äter inte regelbundet;0;0;Har svårt att fokusera på detaljer;Har huvudvärk;0;Kommer inte överens med låtsaspappa;0;0;0;Har många saker igång;;;;;;;;;;;
+;;;Ligger vaken ett tag innan jag somnar;Undviker att vara hemma;Är irriterad;Lägger prestationskrav på mig själv;;;;Äter inte regelbundet;;;Har svårt att fokusera på detaljer;Har huvudvärk;;Kommer inte överens med låtsaspappa;;;;Har många saker igång;;;;;;;;;;;
+;;Frekv;4;4;6;9;0;0;0;6;0;0;8;4;0;7;0;0;0;8;;;;;;;;;;;
+;;frekvx11;44;44;66;99;;;;66;;;88;44;;77;;;;88;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;6;6;4;4;0;0;0;1;0;0;6;4;0;6;0;0;0;7;;;;;;;;;;;
+;;painfx11;66;66;44;44;;;;11;;;66;44;;66;;;;77;;;;;;;;;;;

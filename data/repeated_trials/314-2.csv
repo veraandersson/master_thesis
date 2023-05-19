@@ -1,0 +1,39 @@
+﻿314;;Unkn;Sömn: Tar ett tag innan jag somnar;Undvikande: ;Känslor: Känner mig tom;Övertänker: Övertänker (oroar mig  för skoluppgifter/framtiden, ältar);Stillasittande: ;Självskada: ;Substanser: ;Ätande: ;Självmord: ;Självkritik: ;Fokusproblem: Har svårt att fokusera/zoomar ut;Kroppsligt: Har dimmig syn/dåsig;Skolkrav: ;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: Är utanför mig kropp;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;0;1;1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: Tar ett tag innan jag somnar;1;;0;;6;25;;;;;;;12;0;;;;;3;;;;;;;;;;;88;EMPTY
+Undvikande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Känslor: Känner mig tom;1;;0;;0;8;;;;;;;0;0;;;;;3;;;;;;;;;;;88;EMPTY
+Övertänker: Övertänker (oroar mig  för skoluppgifter/framtiden, ältar);1;;12;;17;0;;;;;;;12;0;;;;;0;;;;;;;;;;;77;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att fokusera/zoomar ut;1;;62;;6;41;;;;;;;0;8;;;;;6;;;;;;;;;;;0;EMPTY
+Kroppsligt: Har dimmig syn/dåsig;1;;25;;0;0;;;;;;;25;0;;;;;8;;;;;;;;;;;77;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: Är utanför mig kropp;1;;0;;6;0;;;;;;;0;0;;;;;0;;;;;;;;;;;22;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;99;0;33;74;0;0;0;0;0;0;50;8;0;0;0;0;19;0;283;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,35;0,00;0,12;0,26;0,00;0,00;0,00;0,00;0,00;0,00;0,17;0,03;0,00;0,00;0,00;0,00;0,07;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Tar ett tag innan jag somnar;0;Känner mig tom;Övertänker (oroar mig  för skoluppgifter/framtiden, ältar);0;0;0;0;0;0;Har svårt att fokusera/zoomar ut;Har dimmig syn/dåsig;0;0;0;0;Är utanför mig kropp;0;;;;;;;;;;;
+;;;Tar ett tag innan jag somnar;;Känner mig tom;Övertänker (oroar mig  för skoluppgifter/framtiden, ältar);;;;;;;Har svårt att fokusera/zoomar ut;Har dimmig syn/dåsig;;;;;Är utanför mig kropp;;;;;;;;;;;;
+;;Frekv;9;0;4;6;0;0;0;0;0;0;9;2;0;0;0;0;2;0;;;;;;;;;;;
+;;frekvx11;99;;44;66;;;;;;;99;22;;;;;22;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;8;0;8;7;0;0;0;0;0;0;0;7;0;0;0;0;2;0;;;;;;;;;;;
+;;painfx11;88;;88;77;;;;;;;0;77;;;;;22;;;;;;;;;;;;

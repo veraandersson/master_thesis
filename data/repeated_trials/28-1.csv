@@ -1,0 +1,39 @@
+﻿28;;Unkn;Sömn: Somnar för sent;Undvikande: Undviker att socialisera mig med klasskamraterna;Känslor: Är nedstämd (och ångestliknande känslor);Övertänker: Grubblar över kompisar;Stillasittande: ;Självskada: ;Substanser: ;Ätande: ;Självmord: Funderar på om livet är värt att leva samt självmordsmetoder/-tider (och hur det skulle tas av andra);Självkritik: Känner att jag är värdelös och är inte nöjd med utseende;Fokusproblem: Zonar ut i skolan;Kroppsligt: Är väldigt trött;Skolkrav: ;Familj: ;Jämnåriga: Har inga nära vänner i skolan;Trauma: ;Dissocierar: ;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;0;0;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: Somnar för sent;1;;0;33;39;33;;;;;33;25;0;8;;;0;;;;;;;;;;;;;55;EMPTY
+Undvikande: Undviker att socialisera mig med klasskamraterna;1;;21;0;58;33;;;;;22;50;0;41;;;44;;;;;;;;;;;;;77;EMPTY
+Känslor: Är nedstämd (och ångestliknande känslor);1;;7;66;0;58;;;;;44;50;0;17;;;77;;;;;;;;;;;;;77;EMPTY
+Övertänker: Grubblar över kompisar;1;;0;77;67;0;;;;;22;41;0;0;;;88;;;;;;;;;;;;;77;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: Funderar på om livet är värt att leva samt självmordsmetoder/-tider (och hur det skulle tas av andra);1;;0;33;67;33;;;;;0;50;0;8;;;77;;;;;;;;;;;;;77;EMPTY
+Självkritik: Känner att jag är värdelös och är inte nöjd med utseende;1;;14;66;58;41;;;;;28;0;10;17;;;77;;;;;;;;;;;;;55;EMPTY
+Fokusproblem: Zonar ut i skolan;1;;41;33;58;50;;;;;33;50;0;50;;;33;;;;;;;;;;;;;77;EMPTY
+Kroppsligt: Är väldigt trött;1;;48;11;48;25;;;;;17;33;0;0;;;33;;;;;;;;;;;;;55;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: Har inga nära vänner i skolan;1;;0;77;0;0;;;;;0;8;0;0;;;0;;;;;;;;;;;;;77;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;131;396;395;272;0;0;0;0;198;305;10;140;0;0;429;0;0;0;2276;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,06;0,17;0,17;0,12;0,00;0,00;0,00;0,00;0,09;0,13;0,00;0,06;0,00;0,00;0,19;0,00;0,00;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Somnar för sent;Undviker att socialisera mig med klasskamraterna;Är nedstämd (och ångestliknande känslor);Grubblar över kompisar;0;Agerar inte helt säkert på farliga platser (t.ex. cyklar in i trafiken);Dricker mer än jag tänkt från början;0;Funderar på om livet är värt att leva samt självmordsmetoder/-tider (och hur det skulle tas av andra);Känner att jag är värdelös och är inte nöjd med utseende;Zonar ut i skolan;Är väldigt trött;0;Känner emotionell distans till pappa (och träffar sällan mamma);Har inga nära vänner i skolan;0;0;Tänker hur situationen jag är i skulle se ut i film/böcker;;;;;;;;;;;
+;;;Somnar för sent;Undviker att socialisera mig med klasskamraterna;Är nedstämd (och ångestliknande känslor);Grubblar över kompisar;;;;;Funderar på om livet är värt att leva samt självmordsmetoder/-tider (och hur det skulle tas av andra);Känner att jag är värdelös och är inte nöjd med utseende;Zonar ut i skolan;Är väldigt trött;;;Har inga nära vänner i skolan;;;;;;;;;;;;;;
+;;Frekv;5;8;7;6;0;3;2;0;4;6;7;6;0;8;8;0;0;3;;;;;;;;;;;
+;;frekvx11;55;88;77;66;;;;;44;66;77;66;;;88;;;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;5;7;7;7;0;5;4;0;7;5;7;5;0;3;7;0;0;4;;;;;;;;;;;
+;;painfx11;55;77;77;77;;;;;77;55;77;55;;;77;;;;;;;;;;;;;;

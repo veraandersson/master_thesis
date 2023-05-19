@@ -1,0 +1,39 @@
+﻿6;;Unkn;Sömn: Går och lägger mig för sent, får för lite sömn;Undvikande: Undviker utmaningar (klasskamrater, prestation);Känslor: Har ångestblandad nedstämdhet;Övertänker: Oroar mig (framtiden, kompisar och prestation);Stillasittande: ;Självskada: ;Substanser: ;Ätande: Äter mindre;Självmord: Funderar på om livet är värt att leva;Självkritik: Känner att jag är hopplös och värdelös;Fokusproblem: Har svårt att fokusera och glömmer saker lättare;Kroppsligt: ;Skolkrav: ;Familj: Stör mig på pappa;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;0;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: Går och lägger mig för sent, får för lite sömn;1;;0;0;17;25;;;;0;6;17;0;;;22;;;;;;;;;;;;;;33;EMPTY
+Undvikande: Undviker utmaningar (klasskamrater, prestation);1;;11;0;25;17;;;;0;0;22;6;;;22;;;;;;;;;;;;;;66;EMPTY
+Känslor: Har ångestblandad nedstämdhet;1;;22;21;0;17;;;;4;0;28;6;;;44;;;;;;;;;;;;;;88;EMPTY
+Övertänker: Oroar mig (framtiden, kompisar och prestation);1;;11;14;58;0;;;;4;3;28;11;;;22;;;;;;;;;;;;;;88;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Äter mindre;1;;0;7;25;17;;;;0;3;22;0;;;11;;;;;;;;;;;;;;33;EMPTY
+Självmord: Funderar på om livet är värt att leva;1;;0;0;17;8;;;;0;0;17;0;;;11;;;;;;;;;;;;;;88;EMPTY
+Självkritik: Känner att jag är hopplös och värdelös;1;;0;7;33;25;;;;0;0;0;6;;;44;;;;;;;;;;;;;;88;EMPTY
+Fokusproblem: Har svårt att fokusera och glömmer saker lättare;1;;55;0;17;8;;;;0;3;11;0;;;11;;;;;;;;;;;;;;66;EMPTY
+Kroppsligt: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: Stör mig på pappa;1;;22;0;17;8;;;;4;0;11;0;;;0;;;;;;;;;;;;;;66;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;121;48;206;124;0;0;0;12;14;154;28;0;0;187;0;0;0;0;894;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,14;0,05;0,23;0,14;0,00;0,00;0,00;0,01;0,02;0,17;0,03;0,00;0,00;0,21;0,00;0,00;0,00;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Går och lägger mig för sent, får för lite sömn;Undviker utmaningar (klasskamrater, prestation);Har ångestblandad nedstämdhet;Oroar mig (framtiden, kompisar och prestation);0;0;0;Äter mindre;Funderar på om livet är värt att leva;Känner att jag är hopplös och värdelös;Har svårt att fokusera och glömmer saker lättare;0;0;Stör mig på pappa;0;0;0;0;;;;;;;;;;;
+;;;Går och lägger mig för sent, får för lite sömn;Undviker utmaningar (klasskamrater, prestation);Har ångestblandad nedstämdhet;Oroar mig (framtiden, kompisar och prestation);;;;Äter mindre;Funderar på om livet är värt att leva;Känner att jag är hopplös och värdelös;Har svårt att fokusera och glömmer saker lättare;;;Stör mig på pappa;;;;;;;;;;;;;;;
+;;Frekv;8;5;6;6;0;0;0;3;2;4;4;0;0;8;0;0;0;0;;;;;;;;;;;
+;;frekvx11;88;55;66;66;;;;33;22;44;44;;;88;;;;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;3;6;8;8;0;0;0;3;8;8;6;0;0;6;0;0;0;0;;;;;;;;;;;
+;;painfx11;33;66;88;88;;;;33;88;88;66;;;66;;;;;;;;;;;;;;;

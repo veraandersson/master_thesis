@@ -1,0 +1,39 @@
+﻿120;;Unkn;Sömn: Svårt att somna och vaknar av mardrömmar;Undvikande: ;Känslor: Är irriterad och arg;Övertänker: Oroar mig för att självskadebeteenden kommer komma tillbaka;Stillasittande: ;Självskada: ;Substanser: ;Ätande: Struntar i att äta;Självmord: ;Självkritik: ;Fokusproblem: Blir trött av ljud;Kroppsligt: Har huvud- eller magont;Skolkrav: ;Familj: ;Jämnåriga: Jämnåriga klasskamrater är taskiga;Trauma: Får plötsliga minnesbilder om en specifik händelse;Dissocierar: Känns som att inget är verkligt;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;0;1;1;0;0;0;1;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: Svårt att somna och vaknar av mardrömmar;1;;0;;29;8;;;;0;;;25;17;;;12;8;6;;;;;;;;;;;55;EMPTY
+Undvikande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Känslor: Är irriterad och arg;1;;8;;0;4;;;;22;;;33;25;;;17;3;6;;;;;;;;;;;77;EMPTY
+Övertänker: Oroar mig för att självskadebeteenden kommer komma tillbaka;1;;4;;10;0;;;;6;;;8;0;;;4;6;3;;;;;;;;;;;44;EMPTY
+Stillasittande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: Struntar i att äta;1;;0;;0;0;;;;0;;;0;0;;;4;0;0;;;;;;;;;;;55;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Blir trött av ljud;1;;17;;39;8;;;;28;;;0;41;;;17;3;3;;;;;;;;;;;22;EMPTY
+Kroppsligt: Har huvud- eller magont;1;;17;;39;0;;;;22;;;41;0;;;4;8;3;;;;;;;;;;;77;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: Jämnåriga klasskamrater är taskiga;1;;0;;0;0;;;;0;;;0;0;;;0;0;0;;;;;;;;;;;66;EMPTY
+Trauma: Får plötsliga minnesbilder om en specifik händelse;1;;8;;10;4;;;;0;;;8;0;;;8;0;0;;;;;;;;;;;88;EMPTY
+Dissocierar: Känns som att inget är verkligt;1;;4;;19;4;;;;6;;;8;0;;;4;6;0;;;;;;;;;;;88;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;58;0;144;29;0;0;0;83;0;0;124;83;0;0;70;33;19;0;642;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,09;0,00;0,22;0,04;0,00;0,00;0,00;0,13;0,00;0,00;0,19;0,13;0,00;0,00;0,11;0,05;0,03;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Svårt att somna och vaknar av mardrömmar;Undviker att gå till affärer i rusningtider;Är irriterad och arg;Oroar mig för att självskadebeteenden kommer komma tillbaka;0;0;0;Struntar i att äta;0;Dömer mig själv för att ha gjort fel (även om jag inte gjort det);Blir trött av ljud;Har huvud- eller magont;0;Bråkar i familjen;Jämnåriga klasskamrater är taskiga;Får plötsliga minnesbilder om en specifik händelse;Känns som att inget är verkligt;0;;;;;;;;;;;
+;;;Svårt att somna och vaknar av mardrömmar;;Är irriterad och arg;Oroar mig för att självskadebeteenden kommer komma tillbaka;;;;Struntar i att äta;;;Blir trött av ljud;Har huvud- eller magont;;;Jämnåriga klasskamrater är taskiga;Får plötsliga minnesbilder om en specifik händelse;Känns som att inget är verkligt;;;;;;;;;;;;
+;;Frekv;3;3;7;3;0;0;0;4;0;2;6;6;0;3;3;2;2;0;;;;;;;;;;;
+;;frekvx11;33;;77;33;;;;44;;;66;66;;;33;22;22;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;5;2;7;4;0;0;0;5;0;5;2;7;0;4;6;8;8;0;;;;;;;;;;;
+;;painfx11;55;;77;44;;;;55;;;22;77;;;66;88;88;;;;;;;;;;;;

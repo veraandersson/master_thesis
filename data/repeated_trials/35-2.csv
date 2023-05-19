@@ -1,0 +1,39 @@
+﻿35;;Unkn;Sömn: Går och lägger mig för sent;Undvikande: Skjuter upp uppgifter/kommer inte igång med att laga mat;Känslor: Känner ångest/ledsamhet;Övertänker: Övertänker kring relationer;Stillasittande: Går inte till träningen;Självskada: ;Substanser: ;Ätande: ;Självmord: ;Självkritik: ;Fokusproblem: Har svårt att fokusera;Kroppsligt: Är väldigt trött;Skolkrav: ;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: ;Öppet: Fastnar på sociala medier (främst instagram);x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;1;0;0;0;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;;severity;
+Sömn: Går och lägger mig för sent;1;;0;77;28;7;12;;;;;;34;28;;;;;;77;;;;;;;;;;66;EMPTY
+Undvikande: Skjuter upp uppgifter/kommer inte igång med att laga mat;1;;44;0;22;7;4;;;;;;41;28;;;;;;44;;;;;;;;;;66;EMPTY
+Känslor: Känner ångest/ledsamhet;1;;44;44;0;21;17;;;;;;28;22;;;;;;55;;;;;;;;;;66;EMPTY
+Övertänker: Övertänker kring relationer;1;;0;33;33;0;4;;;;;;7;22;;;;;;33;;;;;;;;;;44;EMPTY
+Stillasittande: Går inte till träningen;1;;55;66;22;7;0;;;;;;0;28;;;;;;33;;;;;;;;;;55;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att fokusera;1;;44;44;28;21;0;;;;;;0;28;;;;;;55;;;;;;;;;;66;EMPTY
+Kroppsligt: Är väldigt trött;1;;66;33;22;0;0;;;;;;28;0;;;;;;22;;;;;;;;;;55;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Öppet: Fastnar på sociala medier (främst instagram);1;;77;66;22;21;25;;;;;;28;28;;;;;;0;;;;;;;;;;88;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;330;363;176;83;62;0;0;0;0;0;165;182;0;0;0;0;0;319;1679;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,20;0,22;0,10;0,05;0,04;0,00;0,00;0,00;0,00;0,00;0,10;0,11;0,00;0,00;0,00;0,00;0,00;0,19;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Går och lägger mig för sent;Skjuter upp uppgifter/kommer inte igång med att laga mat;Känner ångest/ledsamhet;Övertänker kring relationer;Går inte till träningen;0;0;0;0;Har självkritiska tankar om hur duktig/rolig/etc jag är;Har svårt att fokusera;Är väldigt trött;0;0;0;0;0;Fastnar på sociala medier (främst instagram);;;;;;;;;;;
+;;;Går och lägger mig för sent;Skjuter upp uppgifter/kommer inte igång med att laga mat;Känner ångest/ledsamhet;Övertänker kring relationer;Går inte till träningen;;;;;;Har svårt att fokusera;Är väldigt trött;;;;;;Fastnar på sociala medier (främst instagram);;;;;;;;;;;
+;;Frekv;8;8;4;5;3;0;0;0;0;0;5;4;0;0;0;0;0;8;;;;;;;;;;;
+;;frekvx11;88;88;44;55;33;;;;;;55;44;;;;;;88;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;6;6;6;4;5;0;0;0;0;0;6;5;0;0;0;0;0;8;;;;;;;;;;;
+;;painfx11;66;66;66;44;55;;;;;;66;55;;;;;;88;;;;;;;;;;;

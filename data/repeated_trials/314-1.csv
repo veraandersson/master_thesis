@@ -1,0 +1,39 @@
+﻿314;;Unkn;Sömn: Har svårt att somna, sover för lite;Undvikande: Skjuter upp skolarbete;Känslor: Har jobbig känsla (nedstämdhet, oro, irritation);Övertänker: Oroar mig/ältar situationer;Stillasittande: Orkar inte röra på mig;Självskada: ;Substanser: ;Ätande: ;Självmord: ;Självkritik: ;Fokusproblem: Har svårt att fokusera länge;Kroppsligt: Har kroppsliga problem (yrsel, synrubbningar, trött);Skolkrav: ;Familj: ;Jämnåriga: ;Trauma: ;Dissocierar: Känner att jag är utanför min kropp;Öppet: ;x1;x2;x3;x4;x5;x6;x7;x8;Modify?;Painful?;
+orsak;Relev?;;1;1;1;1;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;;severity;
+Sömn: Har svårt att somna, sover för lite;1;;0;17;50;77;12;;;;;;12;0;;;;;0;;;;;;;;;;;88;EMPTY
+Undvikande: Skjuter upp skolarbete;1;;33;0;25;33;0;;;;;;37;12;;;;;0;;;;;;;;;;;77;EMPTY
+Känslor: Har jobbig känsla (nedstämdhet, oro, irritation);1;;11;22;0;88;12;;;;;;87;0;;;;;0;;;;;;;;;;;88;EMPTY
+Övertänker: Oroar mig/ältar situationer;1;;0;19;58;0;4;;;;;;74;0;;;;;0;;;;;;;;;;;88;EMPTY
+Stillasittande: Orkar inte röra på mig;1;;33;0;17;0;0;;;;;;0;4;;;;;0;;;;;;;;;;;33;EMPTY
+Självskada: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Substanser: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Ätande: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självmord: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Självkritik: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Fokusproblem: Har svårt att fokusera länge;1;;88;14;58;77;12;;;;;;0;25;;;;;8;;;;;;;;;;;77;EMPTY
+Kroppsligt: Har kroppsliga problem (yrsel, synrubbningar, trött);1;;88;3;50;11;4;;;;;;12;0;;;;;0;;;;;;;;;;;55;EMPTY
+Skolkrav: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Familj: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Jämnåriga: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Trauma: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+Dissocierar: Känner att jag är utanför min kropp;1;;11;0;0;0;0;;;;;;0;12;;;;;0;;;;;;;;;;;22;EMPTY
+Öppet: ;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+;0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0;EMPTY
+SUMMA;;raw-centrality;264;74;256;286;45;0;0;0;0;0;223;54;0;0;0;0;8;0;1210;0;0;0;0;0;0;0;;;
+Rader visar orsak;;%-centrality;0,22;0,06;0,21;0,24;0,04;0,00;0,00;0,00;0,00;0,00;0,18;0,04;0,00;0,00;0,00;0,00;0,01;0,00;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Sömn;Undvikande;Känslor;Övertänker;Stillasittande;Självskada;Substanser;Ätande;Självmord;Självkritik;Fokusproblem;Kroppsligt;Skolkrav;Familj;Jämnåriga;Trauma;Dissocierar;Öppet;;;;;;;;;;;
+;;;Har svårt att somna, sover för lite;Skjuter upp skolarbete;Har jobbig känsla (nedstämdhet, oro, irritation);Oroar mig/ältar situationer;Orkar inte röra på mig;0;0;0;0;0;Har svårt att fokusera länge;Har kroppsliga problem (yrsel, synrubbningar, trött);0;0;0;0;Känner att jag är utanför min kropp;0;;;;;;;;;;;
+;;;Har svårt att somna, sover för lite;Skjuter upp skolarbete;Har jobbig känsla (nedstämdhet, oro, irritation);Oroar mig/ältar situationer;Orkar inte röra på mig;;;;;;Har svårt att fokusera länge;Har kroppsliga problem (yrsel, synrubbningar, trött);;;;;Känner att jag är utanför min kropp;;;;;;;;;;;;
+;;Frekv;8;2;6;8;3;0;0;0;0;0;9;3;0;0;0;0;2;0;;;;;;;;;;;
+;;frekvx11;88;22;66;88;33;;;;;;99;33;;;;;22;;;;;;;;;;;;
+;;;Insomnia;Avoidance;Feelings;Overthinking;Inactive;Selfharm;Substances;Eating;Suicidal;Selfhate;Unfocused;Somatic;School pressure;Family situation;Peer problems;Trauma;Dissociates;Open item;;;;;;;;;;;
+;;painf;8;7;8;8;3;0;0;0;0;0;7;5;0;0;0;0;2;0;;;;;;;;;;;
+;;painfx11;88;77;88;88;33;;;;;;77;55;;;;;22;;;;;;;;;;;;
