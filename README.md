@@ -10,7 +10,8 @@ This repository contains the data and R implementation for my Master’s thesis.
 
 * **Pruning Methods:** Edge Betweenness, PageRank, Updated PageRank, and a Connectivity-based "Brute Force" approach.
 * **Objective:** Simplify complex networks by pruning redundant edges until the networks are more interpretable while maintaining the most significant structures.
-* **Mathematics:** * **Centrality-Based Pruning:** Adapted **Edge Betweenness** and **PageRank** algorithms for directed, weighted graphs to iteratively remove edges with the lowest relative influence.
+* **Mathematics:** 
+    * **Centrality-Based Pruning:** Adapted **Edge Betweenness** and **PageRank** algorithms for directed, weighted graphs to iteratively remove edges with the lowest relative influence.
     * **Connectivity Optimization:** Generalized a "brute force" approach for directed networks that allows for disconnected components, pruning edges that contribute the least to the global connectivity in each step.
     * **Reliability Testing:** Used synthetic networks with added noise to evaluate the methods' ability to recover ground-truth structures, alongside similarity measures for empirical network pairs.
 * **Results:** * All methods significantly improved the similarity between synthetic networks and pruned "noisy" networks, particularly when noise consisted of many small-weight edges.
