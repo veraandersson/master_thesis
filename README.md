@@ -14,7 +14,8 @@ This repository contains the data and R implementation for my Master’s thesis.
     * **Centrality-Based Pruning:** Adapted **Edge Betweenness** and **PageRank** algorithms for directed, weighted graphs to iteratively remove edges with the lowest relative influence.
     * **Connectivity Optimization:** Generalized a "brute force" approach for directed networks that allows for disconnected components, pruning edges that contribute the least to the global connectivity in each step.
     * **Reliability Testing:** Used synthetic networks with added noise to evaluate the methods' ability to recover ground-truth structures, alongside similarity measures for empirical network pairs.
-* **Results:** * All methods significantly improved the similarity between synthetic networks and pruned "noisy" networks, particularly when noise consisted of many small-weight edges.
+* **Results:** 
+    * All methods significantly improved the similarity between synthetic networks and pruned "noisy" networks, particularly when noise consisted of many small-weight edges.
     * **Expert Evaluation:** Psychologists overall preferred the Connectivity-based method for visualization; however, those with direct knowledge of the specific patients preferred **Edge Betweenness** and **PageRank** for maintaining clinical nuance.
     * There is a trade-off between practical usefulness, statistical accuracy, and computational time complexity when selecting an optimal pruning strategy.
 
